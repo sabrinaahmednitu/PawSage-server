@@ -7,7 +7,6 @@ node_modules
 .env
 
 # Ignore all modules for now
-src/app/modules/followers/
 src/app/modules/payment/
 src/app/modules/vote/
 
