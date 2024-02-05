@@ -6,10 +6,6 @@ node_modules
 # Environment Variables
 .env
 
-# Ignore all modules for now
-src/app/modules/vote/
-
-
 
 # Optional: logs, build, system files
 dist/
