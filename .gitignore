@@ -6,6 +6,14 @@ node_modules
 # Environment Variables
 .env
 
+# Ignore all modules for now
+src/app/modules/user/
+src/app/modules/followers/
+src/app/modules/payment/
+src/app/modules/post/
+src/app/modules/vote/
+
+
 
 # Optional: logs, build, system files
 dist/
