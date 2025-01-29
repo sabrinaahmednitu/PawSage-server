@@ -9,7 +9,6 @@ node_modules
 # Ignore all modules for now
 src/app/modules/followers/
 src/app/modules/payment/
-src/app/modules/post/
 src/app/modules/vote/
 
 
