@@ -11,7 +11,6 @@ src/app/modules/comment/
 src/app/modules/followers/
 src/app/modules/payment/
 src/app/modules/post/
-src/app/modules/user/
 src/app/modules/vote/
 
 
